@@ -1,8 +1,6 @@
 ## Paul(Deutsche Bezeichnung)编程世界求学路！！！
 
-You can use the [editor on GitHub](https://github.com/Rebornown/Paul.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本人国内普通本科一枚，学的是信息与计算科学，简单地说就是（编程+数学，数学比重大点），理论上讲，是为计算机求学开了个好头，但是，作为一名普通二本，学校教的是不少，但是没有多少深度。但是，抱着对编程的热爱以及对未来的幻想，还是想好好学习，这一切的一切，我都希望从这里开始！
 
 ### Markdown
 
